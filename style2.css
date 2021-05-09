@@ -1,0 +1,98 @@
+
+    h1{
+    color : blue;
+    text-align :center;
+    }
+
+   	.container {
+   		height: 100%;
+		
+	    text-align :center;
+	    font-size: 30px;
+	    border: 1px solid white;
+
+	}
+	
+	.item1{
+			background-color: #9dbeb9;
+			position: absolute;
+			width: 96%;
+			height: 10%;
+		    border : 2px solid black;
+			
+	}
+	.item2{
+			background-color: #ffc2b4;
+			position: absolute;
+			width: 96%;
+			height: 13.5%;
+		    border : 2px solid black;
+		    top: 25%;
+			
+	}
+	.item3{
+			background-color: #1e90ff;
+			position: absolute;
+			width: 22%;
+			height: 21%;
+		    border : 2px solid black;
+		    top: 42%;
+            
+		
+	}
+	.item4{
+			background-color: #2f3542;
+			position: absolute;
+			width: 22%;
+			height: 21%;
+		    border : 2px solid black;
+		    top: 42%;
+		    left: 25.8%;
+    }
+	.item5{
+			background-color:#00d2d3;
+			position: absolute;
+			width: 22%;
+			height: 21%;
+		    border : 2px solid black;
+		    top: 42%;
+		    left: 50.4%;
+	}
+	.item6{
+			background-color: green;
+			position: absolute;
+			width: 22%;
+			height: 21%;
+		    border : 2px solid black;
+		    top: 42%;
+		    left: 74.7%;
+	}
+	.item7{
+			background-color: orange;
+			position: absolute;
+			width: 47%;
+			height: 16%;
+	        border : 2px solid black;
+	        top: 68%;
+	}
+	.item8{
+			background-color: orange;
+			position: absolute;
+			border : 2px solid black;
+	        width: 46.8%;
+			height: 16%;
+	        top: 68%;
+	        left: 49.99%;
+	  
+	       
+	}
+    .item9{
+			background-color:blue;
+			position: absolute;
+			border : 2px solid black;
+			width: 96%;
+			height: 11.5%;
+	        top: 87%;
+		
+	}
+

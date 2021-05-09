@@ -1,0 +1,143 @@
+
+    h1{
+    color : blue;
+    text-align :center;
+    }
+   	.container {
+   		height: 100%;
+   		width: 100%;
+	    text-align :center;
+	    font-size: 30px;
+	    border: 1px solid white;
+
+	}
+	
+	.item1{
+			background-color: #9dbeb9;
+			position: absolute;
+			width: 96%;
+			height: 12%;
+		    border : 2px solid black;
+			
+	}
+	.item2{
+			background-color: #ffc2b4;
+			position: absolute;
+			width: 96%;
+			height: 12%;
+		    border : 2px solid black;
+		    top: 27%;		
+	}
+	.item3{
+			background-color: #1e90ff;
+			position: absolute;
+			width: 47%;
+			height: 12%;
+		    border : 2px solid black;
+		    top: 41.5%;	
+	}
+	.item4{
+			background-color: #2f3542;
+			position: absolute;
+			width: 47%;
+			height: 12%;
+		    border : 2px solid black;
+		    top: 41.5%;
+		    left: 49.7%;
+    }
+	.item5{
+			background-color:#00d2d3;
+			position: absolute;
+			width: 47%;
+			height: 12%;
+		    border : 2px solid black;
+		    top: 56.5%;
+		    
+	}
+	.item6{
+			background-color: green;
+			position: absolute;
+			width: 47%;
+			height: 12%;
+		    border : 2px solid black;
+		    top: 56.5%;
+		    left: 49.7%;
+	}
+	
+    .item7{
+			background-color: orange;
+			position: absolute;
+			width: 96%;
+			height: 12%;
+	        border : 2px solid black;
+	        top: 72%;
+	}
+	.item8{
+			background-color: orange;
+			position: absolute;
+			border : 2px solid black;
+	        width: 96%;
+			height: 12%;
+	        top: 88%;
+	}
+    .item9{
+			background-color:blue;
+			position: absolute;
+			border : 2px solid black;
+			width: 96%;
+			height: 12%;
+	        top: 103%;
+	}
+	/*media query*/
+/*small device*/
+
+@media (min-width: 320px) and (max-width : 767px)
+{
+	.item1{
+	     width: 96%;
+         height: 12%;
+}		
+	.item2{
+		 height: 12%;
+         top: 28%;	
+	}
+	.item3{
+		 width: 96%;
+         height: 12%;
+         top: 43.5%;		
+	}
+	.item4{
+	      width: 96%;
+          height: 12%;
+          top: 59.5%;
+          left: 2%;
+    }
+	.item5{
+          width: 96%;
+          height: 12%;
+          top: 75.5%;
+          left: 2%;  
+	}
+	.item6{
+	      width: 96%;
+          height: 12%;
+          top: 91.5%;
+          left: 2%;
+	}
+	
+    .item7{
+		  width: 96%;
+          height: 12%;
+          top: 108%;       
+	}
+	.item8{
+          width: 96%;
+          height: 12%;
+          top: 124%;        
+	}
+    .item9{
+           width: 96%;
+           height: 12%;
+           top: 140%;
+	}
+}
